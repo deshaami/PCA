@@ -56,8 +56,3 @@ This PCA project provides a comprehensive exploration of PCA from basic 2D examp
 
 ---
 
-## Optional: Contact / Author
-
-For questions or suggestions, feel free to reach out.
-
----
